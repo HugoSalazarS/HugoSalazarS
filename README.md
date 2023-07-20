@@ -56,6 +56,8 @@ EDA Report in Jupyter Notebook: A comprehensive EDA report has been generated in
 
 Power BI Dashboard Development: Alongside the EDA report, a dynamic and interactive Power BI dashboard has been created. This dashboard visually presents the findings of the analysis, providing a user-friendly interface to explore data insights and key performance indicators. It empowers stakeholders to make informed decisions and respond proactively to market demands.
 
+![](https://github.com/HugoSalazarS/DataAnalysisInternetArgentina/blob/main/images/db.png)
+
 By combining the EDA report and Power BI dashboard, this project equips the telecommunications company with valuable information to enhance their services, capitalize on growth opportunities, and cater to the unique needs of potential customers. The insights gained from the analysis pave the way for data-driven strategies and improved customer experiences, driving the company's success in a competitive market landscape.
 
 
