@@ -42,11 +42,13 @@ This repository showcases a comprehensive full stack Data Scientist process, enc
     - Try the system [Here - Movies Recomendation System](https://movies-c2m9.onrender.com)
 ---
 
-# [Telecommunications Analysis in Argentina - EDA Report](https://github.com/HugoSalazarS/DataAnalysisInternetArgentina)
+# [🛰️ Telecommunications Analysis in Argentina - EDA Report 🛰️](https://github.com/HugoSalazarS/DataAnalysisInternetArgentina)
 
 ## Overview:
 
 This project encompasses an Exploratory Data Analysis (EDA) conducted for a telecommunications service provider. The primary goal of this analysis was to gain insights into the behavior of the telecommunications sector at the national level. The aim was to provide valuable information to enhance service quality, identify growth opportunities, and propose tailored solutions for potential clients.
+
+![](https://github.com/HugoSalazarS/DataAnalysisInternetArgentina/raw/main/images/compbandas.png)
 
 The project includes the following key components:
 
