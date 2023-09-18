@@ -15,6 +15,35 @@ I have experience in data cleaning processes, data engineering, MLops, and repor
 # Here are some of my projects 
 ----
 
+# [Sentiment Analysis - NLP Hotel Reviews](https://github.com/cristhianc001/Analisis-Sentimientos-Hoteles/tree/main)
+
+## Overview:
+
+This sentiment analysis project was carried out by performing tasks inherent to data engineering, data analysis, and machine learning engineering. Various data sources such as Google Maps, Yelp, and hotels.com were utilized, followed by data cleaning and loading into a data warehouse. Additionally, an incremental query and loading process were implemented, complete with the necessary data functions and orchestrator.
+
+![](https://github.com/cristhianc001/Analisis-Sentimientos-Hoteles/blob/main/img/flujo_de_datos.jpeg)
+
+The project was implemented on the Google Cloud Platform. Python libraries such as Streamlit, Seaborn, and Matplotlib were used for visualizations, and a Power BI dashboard was developed. Furthermore, several natural language processing models were implemented to extract sentiment from reviews. Lastly, the OpenAI API (chat-GPT) was integrated to run the model with higher accuracy.
+
+![](https://raw.githubusercontent.com/cristhianc001/Analisis-Sentimientos-Hoteles/main/img/wordcloud-yelp.png)
+
+![](https://raw.githubusercontent.com/cristhianc001/Analisis-Sentimientos-Hoteles/main/img/final-rating-mes.png)
+
+![](https://raw.githubusercontent.com/cristhianc001/Analisis-Sentimientos-Hoteles/main/img/dashboard-powerbi.png)
+
+![](https://raw.githubusercontent.com/cristhianc001/Analisis-Sentimientos-Hoteles/main/img/streamlit2.png)
+
+
+This sentiment analysis project was conducted in collaboration with four other colleagues:
+
+- [Douglas Sánchez](https://www.linkedin.com/in/douglassanchezcasanova/)
+- [Yaneth Ramírez](https://www.linkedin.com/in/yanethramirez/)
+- [Cristhian Castro](https://www.linkedin.com/in/cristhiancastro/)
+- [Rodrigo Moreira](https://www.linkedin.com/in/rcmoreg/)
+
+
+---
+
 # [🎬 Movies Recomendation System - MLOps 🍿](https://github.com/HugoSalazarS/movies)
 
 ## Overview:
