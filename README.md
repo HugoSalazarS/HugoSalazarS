@@ -1,10 +1,25 @@
-# Hi, I'm Hugo Salazar 
+# 👋 Hello! I'm Hugo
 ---
- I'm a **Data Scientist** with a unique background as a lawyer and communication advisor for various companies
 
-I have knowledge in agile methodologies, workflow processes, data structures, model evaluation, machine learning, ETL, and data visualization. 
+🚀 About Me
 
-I have experience in data cleaning processes, data engineering, MLops, and report generation using Python, SQL, and Power BI.
+🧑‍💼 Currently working as a Data Scientist at the 4th largest communications company in my country.
+
+🎓 Background in law and communication consulting for various companies.  
+
+**💡 Skills & Expertise**
+
+💻 Proficient in Python, SQL, and Power BI.  
+📊 Experienced in data cleaning, engineering, and visualization.  
+🤖 Knowledgeable in agile methodologies, workflow processes, and model evaluation.  
+🚀 Familiar with ETL processes, machine learning, and MLops. 
+
+
+🌐 Connect with Me  
+
+📧 Email: hugo.salazar@utp.edu.co  
+🔗 LinkedIn: https://www.linkedin.com/in/hasalazars/  
+Let's connect and explore the world of data together! 🚀
 
 ---
 <h3 align="left">Languages and Tools:</h3>
