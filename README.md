@@ -66,7 +66,7 @@ This sentiment analysis project was conducted in collaboration with four other c
 This repository showcases a comprehensive full stack Data Scientist process, encompassing various stages from data engineering to machine learning and deployment. 
 
 📚 **Contents**
-1. **Data Engineering**: Collecting and transforming de data
+1. **Data Engineering**: Collecting and transforming the data
 - **ETL (Extraction, Transformation and Loading)**
     * Data Types
     * Missing Values
