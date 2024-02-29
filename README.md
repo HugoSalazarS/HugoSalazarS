@@ -19,7 +19,7 @@
 
 📧 Email: hugo.salazar@utp.edu.co  
 🔗 LinkedIn: https://www.linkedin.com/in/hasalazars/  
-Let's connect and explore the world of data together! 🚀
+
 
 ---
 <h3 align="left">Languages and Tools:</h3>
