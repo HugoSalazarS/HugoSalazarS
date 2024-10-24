@@ -3,16 +3,16 @@
 
 🚀 About Me
 
-🧑‍💼 Currently working as a Data Scientist at the 4th largest communications company in my country.
+🧑‍💼 Currently working as a Data Scientist on the Credit MAZ Team at AB InBev.
 
 🎓 Background in law and communication consulting for various companies.  
 
 **💡 Skills & Expertise**
 
 💻 Proficient in Python, SQL, and Power BI.  
-📊 Experienced in data cleaning, engineering, and visualization.  
+📊 Experienced in data cleaning, engineering, machine learning and visualization.  
 🤖 Knowledgeable in agile methodologies, workflow processes, and model evaluation.  
-🚀 Familiar with ETL processes, machine learning, and MLops. 
+🚀 Familiar with ETL processes,  and MLops. 
 
 
 🌐 Connect with Me  
